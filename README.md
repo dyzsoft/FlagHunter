@@ -4,7 +4,12 @@
 
 针对简单的单参数传递的一句话和特定的加密一句话
 
-使用metasploit模块标准编写，易于扩展。
+使用metasploit模块标准编写，易于扩展。 测试Msfconsole版本：
+```
+└──╼ $msfconsole --version
+Framework Version: 5.0.46-dev
+
+```
 
 目前实现的功能：
 
